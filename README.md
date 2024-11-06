@@ -1,4 +1,4 @@
-# Telstra-Firewall-Project
+# Telstra Firewall Project
 
 ## Objective
 
